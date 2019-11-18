@@ -12,25 +12,26 @@
 > The data set included with the assignment is based on 2014 American Community
 > Survey 1-year estimates.
 
-Required output:
-    * Scatterplot between two variables where data points are shown as circles
-    with state names inside the circles, axes labeled
-Optional output:
-    * Create dynamic scatterplot with selectable variables on each axis
-    * Incorporate d3 "tool tip" to reveal a specific element's data when the user hovers their cursor over the element
-    * Circles were color coded by US census regions to highlight geographic differences: Northeast (ME, RI, VT, CT, NH, MA); MidAtlantic (NY, NJ, PA);
-    South (VA, WV, KY, DE, MD, NC, SC, TN, AR, LA, FL, GA, AL, MS);
-    Midwest (MI, ND, SD, IA, MN, KS, NE, OH, IN, IL, WI, MO);
-    Southwest (TX, AZ, NM, OK); Rocky Mountain (MT, ID, CO, UT, WY, NV);
-    Pacific Coast and Pacific (CA, OR, WA, HI, AK)
+### Required output:
+> Scatterplot between two variables where data points are shown as circles
+> with state names inside the circles, axes labeled
+### Optional output:
+> Create dynamic scatterplot with selectable variables on each axis
+> Incorporate d3 "tool tip" to reveal a specific element's data when the 
+> user hovers their cursor over the element
+> Circles are color coded by US census regions to highlight geographic differences:
+> Northeast (ME, RI, VT, CT, NH, MA); MidAtlantic (NY, NJ, PA);
+> South (VA, WV, KY, DE, MD, NC, SC, TN, AR, LA, FL, GA, AL, MS);
+> Midwest (MI, ND, SD, IA, MN, KS, NE, OH, IN, IL, WI, MO);
+> Southwest (TX, AZ, NM, OK); Rocky Mountain (MT, ID, CO, UT, WY, NV);
+> Pacific Coast and Pacific (CA, OR, WA, HI, AK)
 
 ### Correlation Coefficients between Health Risks, Age, Income
 <img src="./StarterCode/correlations.PNG"
      alt="Health Issue correlations"
-     align ="center"
      width="250" height="300" />
 
-* Observation 1: Increased poverty is associated with greater levels ofobesity and smoking with reduced health care
+* Observation 1: Increased poverty is associated with greater levels of obesity and smoking with reduced health care
 
 * Observation 2: Obesity is not correlated with age. Younger people also are less likely to smoke and have more health coverage
 
