@@ -16,20 +16,20 @@
 > Scatterplot between two variables where data points are shown as circles
 > with state names inside the circles, axes labeled
 ### Optional output:
-> Create dynamic scatterplot with selectable variables on each axis
+> Create dynamic scatterplot with selectable variables on each axis <br>
 > Incorporate d3 "tool tip" to reveal a specific element's data when the 
-> user hovers their cursor over the element
-> Circles are color coded by US census regions to highlight geographic differences:
-> Northeast (ME, RI, VT, CT, NH, MA); MidAtlantic (NY, NJ, PA);
-> South (VA, WV, KY, DE, MD, NC, SC, TN, AR, LA, FL, GA, AL, MS);
-> Midwest (MI, ND, SD, IA, MN, KS, NE, OH, IN, IL, WI, MO);
-> Southwest (TX, AZ, NM, OK); Rocky Mountain (MT, ID, CO, UT, WY, NV);
+> user hovers their cursor over the element <br>
+> Circles are color coded by US census regions to highlight geographic differences:<br>
+> Northeast (ME, RI, VT, CT, NH, MA); MidAtlantic (NY, NJ, PA);<br>
+> South (VA, WV, KY, DE, MD, NC, SC, TN, AR, LA, FL, GA, AL, MS);<br>
+> Midwest (MI, ND, SD, IA, MN, KS, NE, OH, IN, IL, WI, MO);<br>
+> Southwest (TX, AZ, NM, OK); Rocky Mountain (MT, ID, CO, UT, WY, NV);<br>
 > Pacific Coast and Pacific (CA, OR, WA, HI, AK)
 
 ### Correlation Coefficients between Health Risks, Age, Income
 <img src="./StarterCode/correlations.PNG"
      alt="Health Issue correlations"
-     width="250" height="300" />
+     width="250" height="275" />
 
 * Observation 1: Increased poverty is associated with greater levels of obesity and smoking with reduced health care
 
